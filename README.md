@@ -4,7 +4,7 @@ Bootstrap Blog Theme is default theme from pingpongcms.
 
 ## Credits
 
-- Original template by mdo http://getbootstrap.com/examples/blog/
+- Original template by [Mark Otto](https://github.com/mdo) http://getbootstrap.com/examples/blog/
 
 ## License
 
