@@ -11,7 +11,7 @@ Bootstrap Blog Theme is default theme from pingpongcms.
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015 pingpongcms
+Copyright (c) 2015 Pingpong Labs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
